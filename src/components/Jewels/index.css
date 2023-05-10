@@ -1,0 +1,11 @@
+.jewel-ul{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 50px;
+}
+@media (max-width: 992px){
+    .jewel-ul{
+        padding-left: 10px;
+    }
+}
